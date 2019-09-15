@@ -1,4 +1,4 @@
-- Get the list of resources as `STDIN` and send a `HTTP` `POST` to the webhook endpoint
-- Parse the response and segregate into different resources for a workload
-- Generate a report which can be converted to HTML or PDF
-- Send it to the upstream channels (email, another webhook service, etc...)
+- [ ] Get the list of resources as `STDIN` and send a `HTTP` `POST` to the webhook endpoint
+- [ ] Parse the response and segregate into different resources for a workload
+- [ ] Generate a report which can be converted to HTML or PDF
+- [ ] Send it to the upstream channels (email, another webhook service, etc...)
